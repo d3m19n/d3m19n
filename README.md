@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d3m19n, aka Claudio
+- 👋 Hi, I’m Claudio, aka @d3m19n
 - 👀 I’m interested in Web 3.0, Blockchain technology, Machine Learning and fun stuff that works
 - 🌱 I’m currently developing a few projects to combine AI and Blockchain
 - 💞️ I’m looking to collaborate with anyone who has an interest in ML in Energy and Aviation sectors
