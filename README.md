@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d3m19n, aka Claudio
 - 👀 I’m interested in Web 3.0, Blockchain technology, Machine Learning and fun stuff that works
-- 🌱 I’m currently developing a few projects on machine learning on Time series forecasting and Reinforcement Learning
+- 🌱 I’m currently developing a few projects to combine AI and Blockchain
 - 💞️ I’m looking to collaborate with anyone who has an interest in ML in Energy and Aviation sectors
 - 📫 How to reach me > claudio.disalvo@gmail.com
 
